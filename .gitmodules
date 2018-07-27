@@ -1,0 +1,3 @@
+[submodule "icgc_consensus_copynumber"]
+	path = icgc_consensus_copynumber
+	url = https://github.com/sdentro/icgc_consensus_copynumber
