@@ -1,3 +1,6 @@
 [submodule "icgc_consensus_copynumber"]
 	path = icgc_consensus_copynumber
 	url = https://github.com/sdentro/icgc_consensus_copynumber
+[submodule "CSR"]
+	path = CSR
+	url = https://github.com/wwylab/CSR
