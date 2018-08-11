@@ -4,3 +4,6 @@
 [submodule "CSR"]
 	path = CSR
 	url = https://github.com/wwylab/CSR
+[submodule "icgc_consensus_purity"]
+	path = icgc_consensus_purity
+	url = git@github.com:sdentro/icgc_consensus_purity.git
