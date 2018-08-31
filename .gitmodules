@@ -7,3 +7,9 @@
 [submodule "icgc_consensus_purity"]
 	path = icgc_consensus_purity
 	url = git@github.com:sdentro/icgc_consensus_purity.git
+[submodule "CICC"]
+	path = CICC
+	url = https://github.com/galder-max/CICC
+[submodule "SimClone1000"]
+	path = SimClone1000
+	url = https://github.com/galder-max/SimClone1000
