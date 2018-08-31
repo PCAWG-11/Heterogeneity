@@ -20,7 +20,7 @@ Some of the methods may see further development, therefore, if you're interested
 
 Each of the above named repositories contains a description of the depencies required for that component.
 
-## Used in put methods
+## Used input methods
 
 ### Copy number
 * ABSOLUTE - [code](https://software.broadinstitute.org/cancer/cga/absolute) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4383288/)
