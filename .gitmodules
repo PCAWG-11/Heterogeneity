@@ -13,3 +13,6 @@
 [submodule "SimClone1000"]
 	path = SimClone1000
 	url = https://github.com/galder-max/SimClone1000
+[submodule "consensus-bp"]
+	path = consensus-bp
+	url = git@github.com:morrislab/consensus-bp.git
