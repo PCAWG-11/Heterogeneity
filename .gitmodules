@@ -16,3 +16,6 @@
 [submodule "consensus-bp"]
 	path = consensus-bp
 	url = git@github.com:morrislab/consensus-bp.git
+[submodule "icgc_consensus_clustering_assignment"]
+	path = icgc_consensus_clustering_assignment
+	url = git@github.com:sdentro/icgc_consensus_clustering_assignment.git
