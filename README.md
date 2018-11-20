@@ -16,6 +16,7 @@ Some of the methods may see further development, therefore, if you're interested
 | icgc\_consensus\_copynumber | Pipeline that constructs the consensus copy number profiles |
 | icgc\_consensus\_purity | Pipeline that establishes a consensus purity estimate |
 | icgc\_consensus\_clustering\_assignment | Pipeline that assigns all SNVs, indels and SVs to consensus mutation clusters |
+| MutationTimeR | Version of MutationTimeR used to assign mutations to clusters |
 
 ## Dependencies
 

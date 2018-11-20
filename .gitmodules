@@ -19,3 +19,6 @@
 [submodule "icgc_consensus_clustering_assignment"]
 	path = icgc_consensus_clustering_assignment
 	url = git@github.com:sdentro/icgc_consensus_clustering_assignment.git
+[submodule "MutationTimeR"]
+	path = MutationTimeR
+	url = git@github.com:gerstung-lab/MutationTimeR.git
