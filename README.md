@@ -17,6 +17,8 @@ Some of the methods may see further development, therefore, if you're interested
 | icgc\_consensus\_purity | Pipeline that establishes a consensus purity estimate |
 | icgc\_consensus\_clustering\_assignment | Pipeline that assigns all SNVs, indels and SVs to consensus mutation clusters |
 | MutationTimeR | Version of MutationTimeR used to assign mutations to clusters |
+| weme | Method to construct a consensus subclonal architecture |
+| SpoilSport | Method to correct cluster positions and sizes for missed SNVs (i.e. winner's curse) |
 
 ## Dependencies
 

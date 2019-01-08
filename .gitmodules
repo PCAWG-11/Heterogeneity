@@ -22,3 +22,9 @@
 [submodule "MutationTimeR"]
 	path = MutationTimeR
 	url = git@github.com:gerstung-lab/MutationTimeR.git
+[submodule "weme"]
+	path = weme
+	url = https://github.com/morrislab/weme
+[submodule "SpoilSport"]
+	path = SpoilSport
+	url = https://github.com/morrislab/SpoilSport
