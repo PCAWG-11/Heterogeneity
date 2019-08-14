@@ -31,7 +31,7 @@ Each of the above named repositories contains a description of the depencies req
 * Aceseq - [code](https://github.com/DKFZ-ODCF/ACEseqWorkflow) - [paper](https://www.biorxiv.org/content/early/2017/10/29/210807)
 * Battenberg - [code](https://github.com/Wedge-Oxford/battenberg) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3428864/)
 * cloneHD - [code](https://github.com/andrej-fischer/cloneHD) - [paper](https://www.ncbi.nlm.nih.gov/pubmed/24882004)
-* JaBbA - code - paper
+* JaBbA - [code](https://github.com/mskilab/JaBbA) - paper
 * Sclust - code - [paper](https://www.ncbi.nlm.nih.gov/pubmed/29844525)
 
 ### Subclonal architecture
@@ -40,8 +40,8 @@ Each of the above named repositories contains a description of the depencies req
 * CliP - [code](https://github.com/wwylab/CliP) - paper
 * cloneHD - [code](https://github.com/andrej-fischer/cloneHD) - [paper](https://www.ncbi.nlm.nih.gov/pubmed/24882004)
 * CTPSingle - [code](https://github.com/nlgndnmz/CTPsingle) - [paper](https://www.ncbi.nlm.nih.gov/pubmed/28056180)
-* DPClust - code - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3428864/)
-* PhylogicNDT - code - paper
+* DPClust - [code](https://github.com/Wedge-Oxford/dpclust) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3428864/)
+* PhylogicNDT - [code](https://github.com/broadinstitute/PhylogicNDT/) - [paper](https://www.biorxiv.org/content/10.1101/508127v2)
 * PhyloWGS - [code](https://github.com/morrislab/phylowgs) - [paper](https://www.ncbi.nlm.nih.gov/pubmed/25786235)
 * Pyclone - [code](https://bitbucket.org/aroth85/pyclone/) - [paper](https://www.ncbi.nlm.nih.gov/pubmed/24633410)
 * Sclust - code - [paper](https://www.ncbi.nlm.nih.gov/pubmed/29844525)
