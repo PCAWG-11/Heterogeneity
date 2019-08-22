@@ -36,7 +36,7 @@ Each of the above named repositories contains a description of the depencies req
 
 ### Subclonal architecture
 * Bayclone - code - [paper](https://www.ncbi.nlm.nih.gov/pubmed/25592605)
-* Ccube - [code](https://github.com/keyuan/ccube) - paper
+* Ccube - [code](https://github.com/keyuan/ccube) - [paper](https://www.biorxiv.org/content/10.1101/484402v1)
 * CliP - [code](https://github.com/wwylab/CliP) - paper
 * cloneHD - [code](https://github.com/andrej-fischer/cloneHD) - [paper](https://www.ncbi.nlm.nih.gov/pubmed/24882004)
 * CTPSingle - [code](https://github.com/nlgndnmz/CTPsingle) - [paper](https://www.ncbi.nlm.nih.gov/pubmed/28056180)
