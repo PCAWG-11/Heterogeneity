@@ -1,0 +1,3 @@
+Before running:
+gunzip pcawg_similarities_before_MTimer_no_wcc.Rdata.gz
+gunzip simclone1000_similarities_with_truth_before_MTimer_noWCC.Rdata.gz
