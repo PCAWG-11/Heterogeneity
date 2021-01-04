@@ -5,6 +5,7 @@ The submodules in this repository link to the version of the code that was used 
 
 Some of the methods may see further development, therefore, if you're interested in applying a method it is encouraged to go to the linked repositories and check out the latest version there.
 
+Data from the Pan-Cancer Analysis of Whole Genomes project (PCAWG) is available [here](https://dcc.icgc.org/releases/PCAWG), including [consensus copy number profiles](https://dcc.icgc.org/releases/PCAWG/consensus_cnv) and [consensus subclonal architectures](https://dcc.icgc.org/releases/PCAWG/subclonal_reconstruction).
 
 ## Contents
 
