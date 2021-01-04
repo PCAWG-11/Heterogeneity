@@ -1,5 +1,5 @@
-# Code accompanying Portraits of genetic intra-tumour heterogeneity and subclonal selection across cancer types
-This repository contains code corresponding to analysis reported in [Portraits of genetic intra-tumour heterogeneity and subclonal selection across cancer types](https://www.biorxiv.org/content/early/2018/05/07/312041)
+# Code accompanying Characterizing genetic intra-tumor heterogeneity across 2,658 human cancer genomes
+This repository contains code corresponding to analysis reported in [Characterizing genetic intra-tumor heterogeneity across 2,658 human cancer genomes](https://www.biorxiv.org/content/10.1101/312041v5)
 
 The submodules in this repository will link to the version of the code that was used to produce the results and are provided as a permanent archive. We are currently working on organising and documenting all the code and, once ready, more links will be added.
 
@@ -31,8 +31,8 @@ Each of the above named repositories contains a description of the depencies req
 * Aceseq - [code](https://github.com/DKFZ-ODCF/ACEseqWorkflow) - [paper](https://www.biorxiv.org/content/early/2017/10/29/210807)
 * Battenberg - [code](https://github.com/Wedge-Oxford/battenberg) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3428864/)
 * cloneHD - [code](https://github.com/andrej-fischer/cloneHD) - [paper](https://www.ncbi.nlm.nih.gov/pubmed/24882004)
-* JaBbA - [code](https://github.com/mskilab/JaBbA) - paper
-* Sclust - code - [paper](https://www.ncbi.nlm.nih.gov/pubmed/29844525)
+* JaBbA - [code](https://github.com/mskilab/JaBbA) - [paper](https://doi.org/10.1016/j.cell.2020.08.006)
+* Sclust - [code](http://www.uni-koeln.de/med-fak/sclust/Sclust.tgz) - [paper](https://www.ncbi.nlm.nih.gov/pubmed/29844525)
 
 ### Subclonal architecture
 * Bayclone - code - [paper](https://www.ncbi.nlm.nih.gov/pubmed/25592605)
