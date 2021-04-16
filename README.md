@@ -1,5 +1,5 @@
 # Code accompanying Characterizing genetic intra-tumor heterogeneity across 2,658 human cancer genomes
-This repository contains code corresponding to analysis reported in [Characterizing genetic intra-tumor heterogeneity across 2,658 human cancer genomes](https://www.biorxiv.org/content/10.1101/312041v5)
+This repository contains code corresponding to analysis reported in <a href="https://www.cell.com/cell/fulltext/S0092-8674(21)00294-4">Characterizing genetic intra-tumor heterogeneity across 2,658 human cancer genomes</a>
 
 The submodules in this repository link to the version of the code that was used to produce the results and are provided as a permanent archive. 
 
